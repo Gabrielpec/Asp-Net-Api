@@ -10,7 +10,7 @@ Sources (https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/cr
 1. dotnet </br>
   R: Command for work with .Net
 2. dotnet **new webapp** </br>
-  R: Create a new web project in .Net
+  R: Create a new web project in .Net (Replace webapi for any other type of project that you want)
 3. dotnet new webapp **-o DirectoryName** </br>
   R: Create a new directory for the project
 4. dotnet new webapp -o DirectoryName **--no-https** </br>
